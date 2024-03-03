@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url("http://wallpapercave.com/wp/pEeUsp1.jpg");
+}
+
+h1 {
+  font-family: 'Star Wars', sans-serif;
+  font-size: 4em;
+  color: #ffe81f;
+  text-align: center;
+}
+
+.App {
+  margin: 5em;
+  text-align: center;
+}
+
+#generator {
+  color: #fff;
+}
+
+button {
+  padding: 20px;
+  font-size: 2em;
+  font-family: 'Star Wars';
+  background: 0;
+  color: #fff;
+  border: 0;
+  margin: 10px;
+}
+
+#name, #height, #home, #films{
+  margin: 10px;
+  font-family: 'Coustard';
+  font-size: 2rem;
+}
+
+#image {
+  border-radius: 10px;
+  margin: 10px;
+  max-height: 500px;
+}
+
+a {
+  color: #000;
+  background-color: #fff;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+li {
+  list-style-type: none;
+  color: #fff;
+  font-size: 2rem;
+  font-weight: bolder;
+}
